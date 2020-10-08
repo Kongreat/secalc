@@ -45,15 +45,17 @@
 }
 
 .equal{
-    width: 100%;
+    width: 47%;
     margin-top: 5px;
     background-color: #4d90fe;
     border: 0;
-    height: 50px;
+    height: 30px;
+    border-radius: 7px; 
 }
 
 .inpt{
     height: 30px;
     font-size: 15px;
 }
+
 
